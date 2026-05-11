@@ -1,0 +1,385 @@
+{
+  "appVendor": "POPPIX_SRL",
+  "appID": "BEEBEEDOC",
+  "appVersion": "1.3.145",
+  "results": [
+    {
+      "id": 4,
+      "ts": "2026-05-11T15:47:53Z",
+      "traceId": "6d3ea48d710eef47c02bb156e534613f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.4197d98101147fa0f98c55790b42a370091db449dd9384fa90fd740cf959a7a7.7860c62e0d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT4.PDF"
+      ]
+    },
+    {
+      "id": 28,
+      "ts": "2026-05-11T15:47:20Z",
+      "traceId": "",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_TOKEN_JWT_LAB_KO.PDF"
+      ]
+    },
+    {
+      "id": 32,
+      "ts": "2026-05-11T15:48:01Z",
+      "traceId": "",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_TOKEN_JWT_RSA_KO.PDF"
+      ]
+    },
+    {
+      "id": 36,
+      "ts": "2026-05-11T15:47:23Z",
+      "traceId": "",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_TOKEN_JWT_CAMPO_LAB_KO.PDF"
+      ]
+    },
+    {
+      "id": 40,
+      "ts": "2026-05-11T15:48:03Z",
+      "traceId": "",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_TOKEN_JWT_CAMPO_RSA_KO.PDF"
+      ]
+    },
+    {
+      "id": 53,
+      "ts": "2026-05-11T15:47:25Z",
+      "traceId": "1607f90bcfaa929bf4b2c1a05b5ffda3",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT7_KO.PDF"
+      ]
+    },
+    {
+      "id": 55,
+      "ts": "2026-05-11T15:47:28Z",
+      "traceId": "1b1196f88d9458eb46101abae1eca1bb",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT9_KO.PDF"
+      ]
+    },
+    {
+      "id": 56,
+      "ts": "2026-05-11T15:47:31Z",
+      "traceId": "404a20be274b2a2416d127e2c8ac0ff3",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT10_KO.PDF"
+      ]
+    },
+    {
+      "id": 57,
+      "ts": "2026-05-11T15:47:33Z",
+      "traceId": "427a4da0f206d7797f86976685731776",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT11_KO.PDF"
+      ]
+    },
+    {
+      "id": 59,
+      "ts": "2026-05-11T15:47:36Z",
+      "traceId": "167b9331c0b04b7954583a2e6277333a",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT13_KO.PDF"
+      ]
+    },
+    {
+      "id": 60,
+      "ts": "2026-05-11T15:47:38Z",
+      "traceId": "00b928c59db9aa44cf6711b2da6907ea",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT14_KO.PDF"
+      ]
+    },
+    {
+      "id": 61,
+      "ts": "2026-05-11T15:47:42Z",
+      "traceId": "3163d282d794788a1311a5c3e19f7f44",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT15_KO.PDF"
+      ]
+    },
+    {
+      "id": 62,
+      "ts": "2026-05-11T15:47:45Z",
+      "traceId": "d2c816a126441559a82a2fb80ed05b18",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT16_KO.PDF"
+      ]
+    },
+    {
+      "id": 152,
+      "ts": "2026-05-11T15:48:06Z",
+      "traceId": "8c9f9c17fcac59f31dd487f46b619011",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT6_KO.PDF"
+      ]
+    },
+    {
+      "id": 154,
+      "ts": "2026-05-11T15:48:08Z",
+      "traceId": "c771d77a915172d4b7473ba59ed417d7",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT8_KO.PDF"
+      ]
+    },
+    {
+      "id": 155,
+      "ts": "2026-05-11T15:48:11Z",
+      "traceId": "826429561cda16597b16c9c6347b783b",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT9_KO.PDF"
+      ]
+    },
+    {
+      "id": 156,
+      "ts": "2026-05-11T15:48:14Z",
+      "traceId": "99eb39c704325225a2680c518c0d07a8",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT10_KO.PDF"
+      ]
+    },
+    {
+      "id": 159,
+      "ts": "2026-05-11T15:48:16Z",
+      "traceId": "c27dc8e227fc0d7b8b0c87275d8e573e",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT13_KO.PDF"
+      ]
+    },
+    {
+      "id": 160,
+      "ts": "2026-05-11T15:48:19Z",
+      "traceId": "023ea42cbf99e294675277e151a16f06",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT14_KO.PDF"
+      ]
+    },
+    {
+      "id": 161,
+      "ts": "2026-05-11T15:48:22Z",
+      "traceId": "8488b32f898fd778c623bb7b52a9b0df",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT15_KO.PDF"
+      ]
+    },
+    {
+      "id": 162,
+      "ts": "2026-05-11T15:48:24Z",
+      "traceId": "722844cb43fa2ddbb5c06b867dd5ea7c",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT16_KO.PDF"
+      ]
+    },
+    {
+      "id": 163,
+      "ts": "2026-05-11T15:48:27Z",
+      "traceId": "bf93a130fd7c15dd751284ecfdd4bf81",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT17_KO.PDF"
+      ]
+    },
+    {
+      "id": 164,
+      "ts": "2026-05-11T15:48:30Z",
+      "traceId": "4c3516fccde8467d9267a3779aeaec87",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT18_KO.PDF"
+      ]
+    },
+    {
+      "id": 165,
+      "ts": "2026-05-11T15:48:32Z",
+      "traceId": "f712c9418b1a78a11f5f99e054246145",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT19_KO.PDF"
+      ]
+    },
+    {
+      "id": 166,
+      "ts": "2026-05-11T15:48:35Z",
+      "traceId": "d88fdba272c526fb0b4a7cfddde2d117",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT20_KO.PDF"
+      ]
+    },
+    {
+      "id": 167,
+      "ts": "2026-05-11T15:48:37Z",
+      "traceId": "657996dd07aadaa2d4ee511cd92eba93",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT21_KO.PDF"
+      ]
+    },
+    {
+      "id": 168,
+      "ts": "2026-05-11T15:48:40Z",
+      "traceId": "fab58e8b924ebd9905a9f84c2f75e5e6",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT22_KO.PDF"
+      ]
+    },
+    {
+      "id": 169,
+      "ts": "2026-05-11T15:48:43Z",
+      "traceId": "86444624c1251d2467de0c475fc283ca",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT23_KO.PDF"
+      ]
+    },
+    {
+      "id": 191,
+      "ts": "2026-05-11T15:48:00Z",
+      "traceId": "0b26a6ec1278cdf89910c57e54ccbdcf",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.243e64eb4c9db5b4b7ff3cbaf20255f3e19cc8c6946f2e5322c36ea671fe544d.3569b6e50d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_TRASF_CT1.PDF"
+      ]
+    },
+    {
+      "id": 376,
+      "ts": "2026-05-11T15:48:00Z",
+      "traceId": "c05172b4787a4036befbfb4184612688",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.26990314c069e3d17bbc267e50789e750cfa7bc4dbc4fa4c4e42a52fbca88492.e36bfa799e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_TRASF_CT2.PDF"
+      ]
+    },
+    {
+      "id": 448,
+      "ts": "2026-05-11T15:48:54Z",
+      "traceId": "3259cb1c838830cae776b965d245bef2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.711cfc8825b381193b85705e288434732b04b1537b85c7e57fdc28b13b2d9587.78cdeca57b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT24.PDF"
+      ]
+    },
+    {
+      "id": 449,
+      "ts": "2026-05-11T15:48:57Z",
+      "traceId": "e7c095c0335a9a1a32cd0ac614a49349",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.185aa28a8e02aaf7d677e23dbb1b5f8c9a1263deab1810c594718009ed631971.fa18f415a8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT25.PDF"
+      ]
+    },
+    {
+      "id": 450,
+      "ts": "2026-05-11T15:49:09Z",
+      "traceId": "35e85cd29865d83dbe7b0b6b5a74eaed",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.fbc18387708790123b50a419bd78c6cdc8b9869de8fc4a002f43b9624dfb9c83.187cd449b1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_LDO_CT17.PDF"
+      ]
+    },
+    {
+      "id": 451,
+      "ts": "2026-05-11T15:49:11Z",
+      "traceId": "26887ed1b08dc028f3e988e976840839",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.eb89b47dabb02c2c4edf576dc19e4d1d4e6d2d0313980371a124806416d12d9c.c4a23ad7f9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_LDO_CT18.PDF"
+      ]
+    },
+    {
+      "id": 452,
+      "ts": "2026-05-11T15:47:56Z",
+      "traceId": "50773651aebdc501460df76b9bbaba88",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.c555fa719dfa54e773af597a586ccd0d4ad20a53f1dcda4f67582926868b8bd3.4323ac3de6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT17.PDF"
+      ]
+    },
+    {
+      "id": 461,
+      "ts": "2026-05-11T15:48:45Z",
+      "traceId": "aa1e54bb21c647e2238caaa6268d8fa9",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT26_KO.PDF"
+      ]
+    },
+    {
+      "id": 466,
+      "ts": "2026-05-11T15:47:47Z",
+      "traceId": "22b41bb75b58c5fcf5df323f1ebe8d66",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT18.PDF"
+      ]
+    },
+    {
+      "id": 468,
+      "ts": "2026-05-11T15:48:48Z",
+      "traceId": "ec155026ef2ae34c3258977231ea7dc1",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT27_KO.PDF"
+      ]
+    },
+    {
+      "id": 471,
+      "ts": "2026-05-11T15:49:01Z",
+      "traceId": "92159095c6e86717754c4eaf78b88108",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.4e943c997884b1fb9a4d5a14dbe3b68952f300cc35f58716963caaa9f72d51f7.8ea5a318cf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAD_CT25.PDF"
+      ]
+    },
+    {
+      "id": 472,
+      "ts": "2026-05-11T15:49:05Z",
+      "traceId": "3f5749a88799c1621a0a5b511ec2db22",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.7defaf8132c0d8dd7565bcb2f8fcd09287bef71ea2a235342a9ee87d193b60f8.54db3e8870^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAD_CT26.PDF"
+      ]
+    },
+    {
+      "id": 473,
+      "ts": "2026-05-11T15:47:50Z",
+      "traceId": "26c25573cf4c92e17ddc808a803f5c4c",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_LAB_CT19_KO.PDF"
+      ]
+    },
+    {
+      "id": 475,
+      "ts": "2026-05-11T15:48:51Z",
+      "traceId": "b101e0bf5b270489f2a76073e8d7b71b",
+      "workflowInstanceId": "",
+      "files": [
+        "VALIDAZIONE_CDA2_RSA_CT28_KO.PDF"
+      ]
+    }
+  ]
+}
