@@ -2,8 +2,9 @@
   "appVendor": "o3enterprise",
   "appID": "ris",
   "appVersion": "7.0.0",
-  "ts": "2026-05-19T19:06:09Z",
+  "ts": "2026-06-03T12:53:37Z",
   "equiv_releases": [
+    "8.4.0-pr.1",
     "7.54.0",
     "8.3.3",
     "8.3.2",
